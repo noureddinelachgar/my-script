@@ -17,7 +17,7 @@ if (typeof EqPaymentSession === "undefined") {
         let __threeDsResult = null;
         let inputListToHide = {};
 
-        const _baseUrl = "https://cips-card-embedded-fields-588235121174.us-central1.run.app";
+        const _baseUrl = "https://card-embedded-fields-857138853031.us-central1.run.app";
         const _pblBaseUrl = "https://pbl-equiti-dev.equiti-pay.com";
         const INITIATE_PAYMENT_PATH = "/api/initiate-payment";
         const FINALIZE_PAYMENT_PATH = "/api/finalize-payment-v2";
